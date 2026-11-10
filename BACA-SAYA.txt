@@ -1,0 +1,10 @@
+KATALOG BUKU - PERPUSTAKAAN SMPN 6 KERITANG
+https://katalog.otomasismpn6keritang.my.id
+
+Ekstrak file ini di folder subdomain:
+  /home/bzydmpxm/katalog.otomasismpn6keritang.my.id
+BUKAN di public_html.
+
+Halaman ini hanya MEMBACA data SLiMS (judul, eksemplar, status pinjam).
+Nama peminjam tidak pernah ditampilkan.
+Buku yang ditandai "sembunyikan di OPAC" di SLiMS juga tidak tampil di sini.
